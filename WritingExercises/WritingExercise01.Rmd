@@ -1,0 +1,18 @@
+---
+title: "WritingExercise01"
+output: html_document
+---
+
+# Instructions
+
+Read the following writing samples critically. As you read, consider the following questions:
+
+1. Is it well-written? Why/why not? 
+
+2. How can the writing be improved? (This should be in general terms, not necessarily a line-by-line edit.)
+
+## Writing sample 1
+
+## Writing sample 2
+
+## Writing sample 3
