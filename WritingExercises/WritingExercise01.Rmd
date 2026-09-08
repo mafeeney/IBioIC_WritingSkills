@@ -10,6 +10,8 @@ For this exercise, you are provided with three writing samples (each intended to
 
 2. How can the writing be improved? (This should be in general terms, not necessarily a line-by-line edit.)
 
+Add your comments beneath each sample.
+
 ## Writing sample 1
 
 Heterologous rProtein titres in E. coli are coupled to promoter/RBS architecture, ORF GC content, codon adaptation index (CAI), plasmid copy number, and T7 RNAP loading. IPTG-dependent lacUV5 induction of T7 RNAP can impose substantial transcriptional and translational burden, perturbing Sec-dependent export, DnaK/DnaJ/GrpE-mediated proteostasis and GroEL/ES-assisted folding. Periplasmic accumulation additionally engages DsbA/DsbC-dependent oxidative folding and disulfide isomerisation, whereas cytoplasmic expression can disfavour oxidative folding and favour inclusion-body formation.
