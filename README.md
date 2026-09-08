@@ -20,4 +20,4 @@ Ensure that the commit message accurately describes the changes that you made, a
 Please note that these exercises are provided in R markdown (.Rmd) files. During this tutorial, you can edit them directly in your browser, but if you wish to download and open them you will need to use software that can open .Rmd files (e.g., RStudio). 
 ## Instructions for how to use this repository (as an instructor)
 
-Depending on your use-case, you can use this repository as a template (following the instructions above), or  
+Depending on your use-case, you can use this repository as a template (following the instructions above), or fork the repository to your own GitHub account and adapt it for your own use. 
